@@ -13,3 +13,5 @@ if __name__ == '__main__':
     hard_test3()
 
     empty_address_test()
+
+    print('Congrats! All tests have been passed :)')
