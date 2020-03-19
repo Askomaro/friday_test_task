@@ -11,3 +11,5 @@ if __name__ == '__main__':
     hard_test1()
     hard_test2()
     hard_test3()
+
+    empty_address_test()

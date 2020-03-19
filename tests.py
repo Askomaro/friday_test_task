@@ -38,3 +38,7 @@ def hard_test3():
 
 def hard_test4():
     assert address_line_solution("Calle 39 No 1540") == j({"street": "Calle 39", "housenumber": "No 1540"})
+
+
+def empty_address_test():
+    assert address_line_solution("") == j({"street": "", "housenumber": ""})
